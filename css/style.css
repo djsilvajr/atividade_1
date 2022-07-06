@@ -1,0 +1,23 @@
+/* OBS : exercicio 3 // Mudando o fundo da page */
+body{
+    background-color: aliceblue;
+}
+
+/* OBS : exercicio 3 // Mudando o tamanho da fonte dos paragrafos */
+p{
+    font-size: 14px;
+}
+
+/* OBS : exercicio 3 // Estilizando o h1 */
+h1{
+    
+    font-family: Verdana;
+    font-size: 20px;
+    color: rgb(169, 193, 225);
+    text-align: center;
+
+    /* OBS : exercicio 5*/
+    background-image: url("../img/teste.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
